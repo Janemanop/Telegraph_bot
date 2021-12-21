@@ -67,7 +67,7 @@ Note : Telegraph has a size limit of 5 MB.
     # Home Button
     home_buttons = [
         [InlineKeyboardButton("✨ For More Bots ✨", url="https://t.me/X_bots_official")],
-        [InlineKeyboardButton("⚡ Supported Chat ⚡", callback_data="https://t.me/BOT_SUPPORT_OP")],
+        [InlineKeyboardButton("⚡ Supported Chat ⚡", url="https://t.me/BOT_SUPPORT_OP")],
         [InlineKeyboardButton(text="🏠 Home 🏠", callback_data="home")],
     ]
 
@@ -81,12 +81,12 @@ Note : Telegraph has a size limit of 5 MB.
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("📥 About 📥", callback_data="about")
         ],
-        [InlineKeyboardButton("⚡ Support Chat ⚡", callback_data="https://t.me/BOT_SUPPORT_OP")]
+        [InlineKeyboardButton("⚡ Support Chat ⚡", url="https://t.me/BOT_SUPPORT_OP")]
     ]
 
     # Supported Media Buttons
     supported_media_buttons = [
         [InlineKeyboardButton("✨ More Bots ✨", url="https://t.me/X_bots_official")],
-        [InlineKeyboardButton("⚡ Support Chat ⚡", callback_data="https://t.me/BOT_SUPPORT_OP")],
+        [InlineKeyboardButton("⚡ Support Chat ⚡", url="https://t.me/BOT_SUPPORT_OP")],
         [InlineKeyboardButton(text="🏠 Home 🏠", callback_data="home")]
     ]

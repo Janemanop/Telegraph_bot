@@ -36,27 +36,27 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "2912699"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "a2ccf1e16fc4822cb0a0cec7ada9b496"
     },
     "BOT_TOKEN": {
       "description": "Obtain a Telegram bot token by contacting @BotFather",
       "required": true,
-      "value": ""
+      "value": "5042423883:AAHDUa2hmm0nS3r3ibp4XISdF0Ddxnip4wU"
     },
     "MUST_JOIN": {
       "description": "Not compulsory. Obtain your Telegram Chat's username/id",
       "required": false,
-      "value": ""
+      "value": "X_bots_official"
     },
     "OWNER_ID": {
       "description": "Obtain your Telegram ID",
       "required": true,
-      "value": ""
+      "value": "2032682418"
     }
 
   }
